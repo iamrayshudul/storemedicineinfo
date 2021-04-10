@@ -1,4 +1,3 @@
-'''
 A program that stores the Medicine information
 Medicine name, Type
 Quantity, Price
@@ -11,4 +10,3 @@ Add entry
 Update entry
 Delete
 Close
-'''
